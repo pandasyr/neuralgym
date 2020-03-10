@@ -1,3 +1,5 @@
+This is a TensorFlow 2.0 migrated version of NeuralGym.
+
 NeuralGym: Deep Learning Toolkit
 =================================
 
@@ -13,4 +15,4 @@ Due to rapid/messy development and stability concerns, currently only limited mo
 
 ## Installation
 
-`pip install git+https://github.com/JiahuiYu/neuralgym`
+`pip install git+https://github.com/pandasyr/neuralgym`
