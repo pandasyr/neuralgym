@@ -494,4 +494,4 @@ def flatten(x, name='flatten'):
 
     """
     with tf.compat.v1.variable_scope(name):
-        return tf.keras.layers.Flatten(x)
+        return tf.keras.layers.Flatten()(x)
